@@ -150,6 +150,7 @@ body {
     overflow: hidden;
     transition: max-height 0.3s ease-in-out;
     color: var(--color-grayish-purple);
+    line-height: 2rem;
 }
 
 .faq-question[aria-expanded="true"]+.faq-answer {
